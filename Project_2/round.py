@@ -27,6 +27,8 @@ score -= 1
 print(f"Score -=1:  {score}")
 
 
+
+### F-string
 x = 54
 
 print(f"You are gay {x}")
